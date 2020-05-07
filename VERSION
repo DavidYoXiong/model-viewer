@@ -1,0 +1,5 @@
+commit 3ef0948d4217a660627e62bb03c7fe404d0a57ed
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu May 7 10:08:42 2020 -0700
+
+    fixed example performance (#1195)
